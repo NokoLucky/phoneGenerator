@@ -20,7 +20,9 @@ The required $sid and $token are hard coded into the project so no need to set t
 2. Lumen Microservice API
 
 NB: the project is provided within the already downloaded git repository under the folder “validatorAPI”
+
 ##Installation
+
 PHP PDO version 8.2 and mySQL on http://localhost/phpmyadmin/
 
 Composer is recommended to install this API locally.
