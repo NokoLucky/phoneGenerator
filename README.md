@@ -1,4 +1,4 @@
-Phone Web and Front End:
+1. Phone Web and Front End:
 
 ##Installation
 PHP PDO version 8.2 and mongodb
@@ -17,7 +17,7 @@ This project uses a twilio account to verify phone numbers, so I used a trial ve
 The required $sid and $token are hard coded into the project so no need to set them up in the .env file.
 
 
-Lumen Microservice API
+2. Lumen Microservice API
 
 NB: the project is provided within the already downloaded git repository under the folder “validatorAPI”
 ##Installation
